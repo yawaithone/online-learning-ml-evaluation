@@ -99,8 +99,6 @@ solid, balanced classical baseline.
 ```
 .
 ├── README.md
-├── report/
-│   └── DMML_Project.pdf
 ├── presentation/
 │   └── DMML_slides.pptx
 ├── oulad/
